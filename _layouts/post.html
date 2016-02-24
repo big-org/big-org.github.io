@@ -25,7 +25,21 @@ article .footnotes {
 		{{page.description}}
 	</p>
 
-	<div itemscope itemtype="http://schema.org/Event">
+{% if page.agenda %}
+<h3 class="underline">Agenda: </h3>
+	<ol>
+		{% for agenda in page.agenda %}
+  		<li>
+				<h3>{{ agenda.speech }}</h3>
+				<p>
+					{{ agenda.speaker }} - {{ agenda.schedule }}
+				</p>
+  		</li>
+	{% endfor %}
+</ol>
+{% endif %}
+
+	<div itemscope itemtype="http://schema.org/Event" class="hidden">
 		<a itemprop="url" href="nba-miami-philidelphia-game3.html">
 			{{page.title}}:
 			<span itemprop="name"> {{page.description}} </span>

@@ -10,7 +10,7 @@ permalink:          /meetup/:title # Post permalink
 timezone:           Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Site Build
-highlighter:        pygments
+# highlighter:        pygments
 #markdown:           redcarpet
 #redcarpet:
 #    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
