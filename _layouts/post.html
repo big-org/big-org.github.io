@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<noscript>
+<style>
+
+article .footnotes {
+	display: block;
+}
+
+</style>
+</noscript>
+
+<article>
+
+	<div class="center">
+		<h1>{{ page.title }}</h1>
+		<time>{{ page.date | date: '%B %-d, %Y' }}</time>
+	</div>
+
+	<div class="divider"></div>
+
+	<p>
+		{{page.description}}
+	</p>
+
+	<div itemscope itemtype="http://schema.org/Event">
+  <a itemprop="url" href="nba-miami-philidelphia-game3.html">
+  {{page.title}}:
+  <span itemprop="name"> {{page.description}} </span>
+  </a>
+  <meta itemprop="startDate" content="{{page.start}}">
+    {{page.start}}
+  <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+    <a itemprop="url" href="wells-fargo-center.html">
+    Wells Fargo Center
+    </a>
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+      <span itemprop="addressLocality">Philadelphia</span>,
+      <span itemprop="addressRegion">PA</span>
+    </div>
+  </div>
+</div>
+
+	<div class="divider"></div>
+
+	<div class="center">
+		<span class="addtocalendar atc-style-blue">
+			<var class="atc_event">
+				<var class="atc_date_start">{{page.start}}</var>
+				<var class="atc_date_end">{{page.end}}</var>
+				<var class="atc_timezone">{{site.timezone}}</var>
+				<var class="atc_title">{{page.title}}</var>
+				<var class="atc_description">{{page.description}}</var>
+				<var class="atc_location">{{page.where}}</var>
+				<var class="atc_organizer">{{site.title}}</var>
+				<var class="atc_organizer_email">{{site.contact}}</var>
+			</var>
+		</span>
+	</div>
+
+
+</article>
+
+<div class="back">
+	<a href="{{site.baseurl}}/">Back</a>
+</div>
