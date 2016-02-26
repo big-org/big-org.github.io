@@ -1,0 +1,14 @@
+<script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+
+<script>
+$(document).ready(function() {
+  var pathname = window.location.pathname;
+  console.log('dfdf');
+  $("#navlist a").each(function(index) {
+    if (pathname.toUpperCase().indexOf($(this).text().toUpperCase()) != -1)
+    $(this).addClass("active");
+  });
+  if ($("a.current").length == 0)
+  $("a#index").addClass("active");
+});
+</script>

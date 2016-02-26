@@ -332,7 +332,7 @@ section {
   li {
     display: inline-block;
     margin: 0 10px;
-    a:hover {
+    a:hover, a.active {
       color: red;
     }
   }
