@@ -1,5 +1,5 @@
 body {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
   padding: 20px;
   margin: 0;
   font-weight: 400;
@@ -10,6 +10,7 @@ body {
   }
 }
 .logo h1 {
+  font-family: Impact, Charcoal, sans-serif;
   font-size: 2.5rem;
 }
 h2,
@@ -190,6 +191,16 @@ table {
 iframe {
   width: 100%;
 }
+
+.divider {
+  background: #ddd;
+  background: -webkit-gradient(linear,left top,right top,from(rgba(255,255,255,0)),color-stop(#ccc),to(rgba(255,255,255,0)));
+  background: -webkit-linear-gradient(left,rgba(255,255,255,0),#ccc,rgba(255,255,255,0));
+  background: linear-gradient(to right,rgba(255,255,255,0),#ccc,rgba(255,255,255,0));
+  height: 1px;
+  margin: 2em 0;
+}
+
 article {
   max-width: 500px;
   margin: 0 auto;
@@ -336,4 +347,11 @@ section {
       color: red;
     }
   }
+}
+.footer {
+  position: fixed;
+  bottom: 30px;
+  text-align: center;
+  background-color: #FFF;
+  color: white;
 }
