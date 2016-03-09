@@ -1,8 +1,8 @@
 ---
 title: Homestead Release Party
-start: 2016-03-14 16:00
-end: 2016-03-14 18:00
-where: Kerala Startup Mission - Thejaswini. Technopark. Thiruvananthapuram, KL 695581 IN
+start: 2016-03-14 17:00
+end: 2016-03-14 19:30
+where: Kerala Startup Mission - Thejaswini. Technopark. Thiruvananthapuram.
 description: Ethereum's next version Homestead is getting released on this same day! So, we are holding a release party!
 when: Monday, March 14, 2016 from 5:00 PM to 7:30 PM (IST)
 latitude: 8.5566111

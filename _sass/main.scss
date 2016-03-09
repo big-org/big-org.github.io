@@ -147,7 +147,8 @@ sup {
   top: -0.5em;
   margin-left: 1px;
 }
-time {
+time, .loc {
+  font-size: 14px;
   color: #555;
 }
 code,
@@ -336,7 +337,7 @@ section {
     -webkit-transform: none;
   }
 }
-.hidden, .atcb-link {
+.hidden, var {
   visibility: hidden;
   display: none;
 }

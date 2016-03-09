@@ -16,7 +16,7 @@ article .footnotes {
 
 	<div class="center">
 		<h1>{{ page.title }}</h1>
-		<time>{{ page.start | date: '%B %-d, %Y' }}</time>
+		<time>{{ page.start | date: '%B %-d, %Y  %I:%M %p' }}</time> - <span class="loc">{{page.where}}</span>
 	</div>
 
 	<div class="divider"></div>
@@ -76,7 +76,7 @@ article .footnotes {
 
 		<br> <br>
 		<span class="addtocalendar atc-style-blue">
-			<var class="atc_event hidden">
+			<var class="atc_event">
 				<var class="atc_date_start">{{page.start}}</var>
 				<var class="atc_date_end">{{page.end}}</var>
 				<var class="atc_timezone">{{site.timezone}}</var>
