@@ -13,6 +13,12 @@ body {
   font-family: Impact, Charcoal, sans-serif;
   font-size: 2.5rem;
 }
+h1 {
+  font-size: 30px;
+}
+h2 {
+  opacity: 0.8;
+}
 h2,
 h4,
 h5 {
@@ -330,7 +336,7 @@ section {
     -webkit-transform: none;
   }
 }
-.hidden {
+.hidden, .atcb-link {
   visibility: hidden;
   display: none;
 }
@@ -354,4 +360,19 @@ section {
   text-align: center;
   background-color: #FFF;
   color: white;
+}
+.eventbrite {
+  color: green;
+  font-weight: bold;
+}
+ul, ol {
+  li {
+    margin: 6px 0;
+  }
+}
+ul.atcb-list {
+  li {
+    display: inline-block;
+    margin: 0 5px;
+  }
 }

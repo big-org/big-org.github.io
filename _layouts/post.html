@@ -16,13 +16,19 @@ article .footnotes {
 
 	<div class="center">
 		<h1>{{ page.title }}</h1>
-		<time>{{ page.date | date: '%B %-d, %Y' }}</time>
+		<time>{{ page.start | date: '%B %-d, %Y' }}</time>
 	</div>
 
 	<div class="divider"></div>
+	<div id="thistime">
 
+	</div>
 	<p>
 		{{page.description}}
+	</p>
+
+	<p>
+		{{content}}
 	</p>
 
 {% if page.agenda %}
@@ -62,9 +68,15 @@ article .footnotes {
 
 	<div class="divider"></div>
 
+
 	<div class="center">
+		{% if page.eventbrite %}
+		<a href="{{page.eventbrite}}" target="_blank" class="eventbrite">book your seat</a> - its free
+		{%endif%}
+
+		<br> <br>
 		<span class="addtocalendar atc-style-blue">
-			<var class="atc_event">
+			<var class="atc_event hidden">
 				<var class="atc_date_start">{{page.start}}</var>
 				<var class="atc_date_end">{{page.end}}</var>
 				<var class="atc_timezone">{{site.timezone}}</var>

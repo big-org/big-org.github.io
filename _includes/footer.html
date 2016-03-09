@@ -2,7 +2,6 @@
 <script>
 $(document).ready(function() {
   var pathname = window.location.pathname;
-  console.log('dfdf');
   $("#navlist a").each(function(index) {
     if (pathname.toUpperCase().indexOf($(this).text().toUpperCase()) != -1)
     $(this).addClass("active");
@@ -10,4 +9,11 @@ $(document).ready(function() {
   if ($("a.current").length == 0)
   $("a#index").addClass("active");
 });
+</script>
+
+<script type="text/javascript" src="http://momentjs.com/downloads/moment.js"></script>
+<script>
+  moment().format();
+  var thistime = moment("20120620", "YYYYMMDD").fromNow();
+  console.log(thistime);
 </script>

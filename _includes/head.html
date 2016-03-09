@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 {% if page.title %}
-	<title>{{ page.title }} {% if page.url != "/index.html" %} {{ site.title | prepend:' | ' }} {% endif %}</title>
+	<title>{{ page.title }} {% if page.url != "/index.html" %} {{ site.title | prepend:' | ' | prepend:page.start }} {% endif %}</title>
 {% else %}
 	<title>{{ site.title }}</title>
 {% endif %}
@@ -21,7 +21,6 @@
 <link rel="canonical" href="{{ page.url | prepend: site.baseurl }}">
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml" />
 
-<link href="http://addtocalendar.com/atc/1.5/atc-style-blue.css" rel="stylesheet" type="text/css">
 
 {% if jekyll.environment == 'production' %}
 
