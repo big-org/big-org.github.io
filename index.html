@@ -14,7 +14,7 @@ layout: default
 				<span>{{ post.start | date: "%b %d, %Y" }}</span>
 			</div>
 			<div class="title">
-				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				<span title="Meetup #{{ forloop.rindex }}">#{{ forloop.rindex }} </span> <a href="{{ post.url | prepend: site.baseurl }}" title="Meetup #{{ forloop.rindex }} - {{ post.title }}">{{ post.title }}</a>
 			</div>
 		</li>
 

@@ -7,6 +7,7 @@ description: Ethereum's next version Homestead is getting released on this same 
 when: Monday, March 14, 2016 from 5:00 PM to 7:30 PM (IST)
 latitude: 8.5566111
 longitude: 76.8819165
+meetupno: 2
 eventbrite: https://www.eventbrite.com/e/blockchain-interest-group-homestead-release-party-tickets-22721407341
 ---
 
