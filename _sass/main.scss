@@ -337,7 +337,7 @@ section {
     -webkit-transform: none;
   }
 }
-.hidden, var {
+.hidden, var, .atcb-link {
   visibility: hidden;
   display: none;
 }
@@ -372,8 +372,9 @@ ul, ol {
   }
 }
 ul.atcb-list {
+  padding-left: 0;
   li {
     display: inline-block;
-    margin: 0 5px;
+    margin: 5px;
   }
 }
