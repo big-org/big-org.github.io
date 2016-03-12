@@ -5,10 +5,12 @@ body {
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
-  text-rendering: optimizeLegibility;
   @media (min-width: 992px) {
     padding: 35px 50px;
   }
+}
+div, p, span, h1, h2, h3 {
+  text-rendering: optimizeLegibility;
 }
 .logo h1 {
   font-family: Impact, Charcoal, sans-serif;
