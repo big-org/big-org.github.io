@@ -5,6 +5,7 @@ body {
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
   @media (min-width: 992px) {
     padding: 35px 50px;
   }
@@ -12,6 +13,7 @@ body {
 .logo h1 {
   font-family: Impact, Charcoal, sans-serif;
   font-size: 2.5rem;
+  letter-spacing: 1.2px
 }
 h1 {
   font-size: 30px;
@@ -356,11 +358,7 @@ section {
   }
 }
 .footer {
-  position: fixed;
-  bottom: 30px;
-  text-align: center;
-  background-color: #FFF;
-  color: white;
+  color: #FFF;
 }
 .eventbrite {
   color: green;
