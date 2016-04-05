@@ -5,7 +5,7 @@ google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 contact: chat@telegram.only
 telegram: https://telegram.me/joinchat/BpyuoDzuXTSUu9baKdD77g
-ethinTel: https://telegram.me/joinchat/B31UzQa0uAcrpUceoaEE-A
+ethinTel: https://telegram.me/ethereumin
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /meetup/:title # Post permalink
