@@ -3,7 +3,7 @@ layout: page
 title: Useful Links
 ---
 
-There is a lot of information about blockchain technology out there. Here is a list of links to some of that mawesometerial - 
+There is a lot of information about blockchain technology out there. Here is a curated list of links to some of that awesome materials - 
 
 * [Bitcoin Block Explorer](https://blockchain.info/ "Blockchain.info")   
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](http://fermatslibrary.com/s/bitcoin "Fermat's library - Bitcoin paper")
