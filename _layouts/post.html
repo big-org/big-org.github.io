@@ -38,7 +38,7 @@ article .footnotes {
   		<li>
 				<h3>{{ agenda.speech }}</h3>
 				<p>
-					{{ agenda.speaker }} - {{ agenda.schedule }}
+					{{ agenda.speaker }} {% if(agenda.schedule != nil ) %}{{ agenda.schedule | prepend: "- "}} {% endif %}
 				</p>
   		</li>
 	{% endfor %}
