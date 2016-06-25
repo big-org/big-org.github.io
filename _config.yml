@@ -8,6 +8,7 @@ telegram: https://telegram.me/joinchat/BpyuoDzuXTSUu9baKdD77g
 ethinTel: https://telegram.me/ethereumin
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
+url:                "https://big-org.github.io"
 permalink:          /meetup/:title # Post permalink
 timezone:           Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
