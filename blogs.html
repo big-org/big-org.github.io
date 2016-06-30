@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="divider"></div>
+
+
+<section>
+	{% assign blogs = site.posts | where: "type", "blog" | sort: "weight" %}
+	<ul>
+		{% for post in blogs %}
+		<li>
+			<div class="title">
+				<a href="{{ post.url | prepend: site.baseurl }}" title="Meetup #{{ forloop.rindex }} - {{ post.title }}">{{ post.title }}</a>
+			</div>
+		</li>
+
+		{% endfor %}
+
+	</ul>
+</section>
