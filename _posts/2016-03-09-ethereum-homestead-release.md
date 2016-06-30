@@ -13,7 +13,7 @@ eventbrite: https://www.eventbrite.com/e/blockchain-interest-group-homestead-rel
 
 
 ## Following will be discussed:
- 1. IPFS - Interplanetry File System
- 2. Mircopayments - How, Why and When
+ 1. IPFS - Interplanetary File System
+ 2. Micropayments - How, Why and When
  3. Smart Contracts
  4. DAO - Decentralized Autonomous Organisation
