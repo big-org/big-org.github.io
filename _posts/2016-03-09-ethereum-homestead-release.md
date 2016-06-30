@@ -9,6 +9,7 @@ latitude: 8.5566111
 longitude: 76.8819165
 meetupno: 2
 eventbrite: https://www.eventbrite.com/e/blockchain-interest-group-homestead-release-party-tickets-22721407341
+type: meetup
 ---
 
 
