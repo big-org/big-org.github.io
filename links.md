@@ -29,3 +29,4 @@ There is a lot of information about blockchain technology out there. Here is a c
 ### Philosophy and White Paper
   * [Ethereum White Paper by Vitalik Buterin](https://github.com/ethereum/wiki/wiki/White-Paper)
   * [Ethereum Yellow Paper by Gavin Wood](http://gavwood.com/paper.pdf)
+  * [Ethereum Improvement Proposal](https://github.com/ethereum/EIPs)
