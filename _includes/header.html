@@ -1,3 +1,10 @@
+
+<div class="logo">
+  <a href="{{ link | prepend: site.baseurl }}">
+    <img src="/assets/big-org-small.png" alt="{{ site.title }}" />
+  </a>
+</div>
+
 <aside class="logo">
 
 	{% if page.url == '/index.html' or page.url == '/' %}
@@ -9,11 +16,8 @@
 	{% endif %}
 
 	{% if page.url == '/index.html' or page.url == '/' %}
-	<a href="{{ link | prepend: site.baseurl }}">
 		<h1>{{ site.title }}</h1>
-	</a>
 	{% endif %}
-
 
 </aside>
 

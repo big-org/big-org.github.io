@@ -131,6 +131,10 @@ span[data-note] {
   -webkit-animation-duration: 0.7s;
   -webkit-animation-fill-mode: both;
   -webkit-animation-name: bounce;
+  a {
+    text-decoration: none;
+    border: 0 none;
+  }
 }
 iframe {
   margin: 45px 0 !important;
