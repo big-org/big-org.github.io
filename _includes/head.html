@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 {% if page.title %}
-	<title>{{ page.title }} {% if page.url != "/index.html" %} {{  prepend:page.start | append:' Meetup #' | append:page.meetupno | append:' - ' | append:site.title | prepend:' | ' }} {% endif %}</title>
+	<title>{{ page.title }} {% if page.url != "/index.html" %} {{  prepend:page.start | append:site.title | prepend:' | ' }} {% endif %}</title>
 {% else %}
 	<title>{{ site.title }}</title>
 {% endif %}
