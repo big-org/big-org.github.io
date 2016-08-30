@@ -12,4 +12,4 @@ Please join our [Telegram Group]({{site.telegram}}) there is also a separate [Et
 
 ### Follow {{site.title}}
 
-[GitHub](https://github.com/big-org "{{site.title}} on GitHub") / [Twitter](https://twitter.com/big_org "{{site.title}} on Twitter")
+[GitHub](https://github.com/big-org "{{site.title}} on GitHub") / [Twitter](https://twitter.com/big_org "{{site.title}} on Twitter") / [Email](mailto:{{site.contact}})
