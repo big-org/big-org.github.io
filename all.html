@@ -8,7 +8,7 @@ layout: default
 <section>
 	{% assign meetups = site.posts | where: "type", "meetup" %}
 	<ul>
-		{% for post in meetups limit:3 %}
+		{% for post in meetups %}
 		<li>
 			<div class="post-date">
 				<span>{{ post.start | date: "%b %d, %Y" }}</span>
@@ -17,9 +17,6 @@ layout: default
 				<span title="Meetup #{{ post.meetupno }}">#{{ post.meetupno }} </span> <a href="{{ post.url | prepend: site.baseurl }}" title="Meetup #{{ forloop.rindex }} - {{ post.title }}">{{ post.title }}</a>
 			</div>
 		</li>
-
 		{% endfor %}
-    <li class="right"><a href="all">..older..</a></li>
-
 	</ul>
 </section>
