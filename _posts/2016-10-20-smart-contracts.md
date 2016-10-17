@@ -11,7 +11,7 @@ meetupno: 8
 type: meetup
 ---
 
-**Use cases**   
+**Agenda**   
 
 * Smart contracts on the Ethereum Blockchain
 * The recent DOS attacks on the Ethereum Blockchain
