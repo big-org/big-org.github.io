@@ -5,6 +5,9 @@ title: Useful Links
 
 There is a lot of information about blockchain technology out there. Here is a curated list of links to some of that awesome materials -
 
+## Blockchain
+1. [Curated list of blockchain and general cryptocurrency resources](https://github.com/McFrankline/Blockchain-stuff)
+
 ## Bitcoin
 
 ### Philosophy and White Paper
