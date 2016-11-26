@@ -17,7 +17,7 @@ layout: default
 				<span>{{ post.start | date: "%b %d, %Y" }}</span>
 			</div>
 			<div class="title">
-				<span title="Meetup #{{ post.meetupno }}">#{{ post.meetupno }} </span> <a href="{{ post.url | prepend: site.baseurl }}" title="Meetup #{{ forloop.rindex }} - {{ post.title }}">{{ post.title }}</a>
+				<span title="Meetup #{{ post.meetupno }}">#{{ post.meetupno }} </span> <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }} - Meetup #{{ post.meetupno }}">{{ post.title }}</a>
 			</div>
 		</li>
 
