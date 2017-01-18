@@ -1,0 +1,16 @@
+---
+title: "Discussion on Blockchain - Meetup #11"
+start: 2017-01-19 16:00
+end: 2017-01-19 17:30
+where: Kerala Startup Mission, Tejaswini
+description: The session is open ended with an emphasis on collaborative discussion.
+when: Thursday, January 19, 2017 from 4:00 PM to 5:30 PM (IST)
+meetupno: 11
+type: meetup
+---
+
+**Agenda**
+
+The session is planned to discuss the following:
+
+* Discussed about various consensus mechanisms
