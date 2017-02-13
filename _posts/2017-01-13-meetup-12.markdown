@@ -1,0 +1,17 @@
+---
+title: "Blockchain Governance - Meetup #12"
+start: 2017-02-15 17:00
+end: 2017-02-15 18:00
+where: Meetup Cafe, Kerala Startup Mission, Tejaswini
+description: The session is open ended with an emphasis on collaborative discussion.
+when: Wednesday, February 15, 2017 from 5:00 PM to 6:00 PM (IST)
+meetupno: 12
+type: meetup
+---
+
+**Agenda**
+
+The session is planned to discuss the following:
+
+* Delegative Democratic Framework: Ethenian DAO by Darryl Morris
+* Insurance applications on blockchain by Jaydev Sreevallabhan
