@@ -15,3 +15,8 @@ The session is planned to discuss the following:
 
 * Delegative Democratic Framework: Ethenian DAO by Darryl Morris
 * Insurance applications on blockchain by Jaydev Sreevallabhan
+
+**Speakers**
+
+ - **Darryl Morris:** Darryl has been actively involved in the Ethereum community as a miner and contract writer since November 2014. He is a moderator on forums.ethereum.org.  His interests for the platform is to develop and promote democratic technologies and extend crypto-currency technology into the properties of physical cash in order to reach also the unbanked millions around the world who would otherwise be greatly harmed by continuing demonetisation efforts of governments.
+ - **Jaydev Sreevallabhan:** Risk assessment engineer swimming in the convergent spaces of Insurance and Cryptoeconomic State Machines
