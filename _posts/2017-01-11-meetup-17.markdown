@@ -1,0 +1,19 @@
+---
+title: "Bitcoin, Blockchain, ICO and dApps - Meetup #17"
+start: 2017-07-20 16:00
+end: 2017-07-20 17:30
+where: Department of Computational Biology Kerala University, Thiruvananthapuram
+description: Meetup 17 - Bitcoin, Blockchain, ICO and dApps
+when: Thursday, July 20, 2017 from 4:00 PM to 5:30 PM (IST)
+meetupno: 17
+type: meetup
+---
+
+**Agenda**
+
+The session is planned to discuss the following:
+
+• Bitcoin: The Fundamentals  
+• Blockchain: Deep dive
+• ICO: Crowd Funding on Steroids  
+• dApps: Unstoppable Applications
