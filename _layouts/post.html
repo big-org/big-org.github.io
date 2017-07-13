@@ -33,9 +33,9 @@ article .footnotes {
 	{% for agenda in page.agenda %}
   	<li>
 	  <h3>{{ agenda.speech }}</h3>
-	  <p> {{ agenda.speaker }} 
+	  <p> {{ agenda.speaker }}
 	  {% if agenda.schedule != nil %}
-	  	{{ agenda.schedule | prepend: "- "}} 
+	  	{{ agenda.schedule | prepend: "- "}}
 	  {% endif %}</p>
   	</li>
 	{% endfor %}
@@ -66,7 +66,7 @@ article .footnotes {
 				<meta itemprop="latitude" content="{{page.latitude}}" />
 				<meta itemprop="longitude" content="{{page.longitude}}" />
 			</div>
-
+      <<img id="cover" src="http://big-org.com/assets/big-org-medium.png" alt="{{site.title}}">
 		</div>
 	</div>
 
