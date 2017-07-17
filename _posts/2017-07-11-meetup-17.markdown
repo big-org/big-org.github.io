@@ -24,4 +24,4 @@ The session is planned to discuss the following:
 - **Bitcoin: The Fundamentals:** Jikku Jose, COO Qucentis
 - **Blockchain: Deep dive:** Rakesh B.S, CTO Qucentis
 - **ICO: Crowd Funding on Steroids:** Jayadev Sreevallabhan, Director LMB Insurance Brokers
-- **dApps: Unstoppable Applications:*** Nikhil Mohan, COO Lightrains Tech
+- **dApps: Unstoppable Applications:** Nikhil Mohan, COO Lightrains Tech
