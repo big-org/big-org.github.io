@@ -29,4 +29,5 @@ The session is planned to discuss the following:
 
 ## Updates
 
-- [Slides - Meet up #17](assets/slides/BIGOrg-Talks-17-Meetup.pdf)
+- [Slides -
+Meet up #17](/assets/slides/BIGOrg-Talks-17-Meetup.pdf)
