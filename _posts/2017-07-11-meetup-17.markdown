@@ -25,3 +25,8 @@ The session is planned to discuss the following:
 - **Blockchain: Deep dive:** Rakesh B.S, CTO Qucentis
 - **ICO: Crowd Funding on Steroids:** Jayadev Sreevallabhan, Director LMB Insurance Brokers
 - **dApps: Unstoppable Applications:** Nikhil Mohan, COO Lightrains Tech
+
+
+## Updates
+
+- [Slides - Meet up #17](assets/slides/BIGOrg-Talks-17-Meetup.pdf)
