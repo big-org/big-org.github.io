@@ -1,0 +1,23 @@
+---
+title: "Blockchain Immutability and Hyperledger - Meetup #18"
+start: 2017-08-24 17:00
+end: 2017-08-24 19:00
+where: "Founders Hall 9th Floor, UST Global Campus, NH-Bypass, Trivandrum"
+description: "Blockchain Immutability and Hyperledger"
+when: Thursday, August 24, 2017 from 5:00 PM to 7:00 PM (IST)
+meetupno: 18
+type: meetup
+latitude: "8.548489"
+longitude: "76.8728404"
+---
+
+**Agenda**
+The session is planned to discuss the following:
+
+- Blockchain: The Immutable Ledger  
+- Hyperledger: A first look
+
+**Speakers**
+
+- **Blockchain: The Immutable Ledger s:**  Rakesh B.S, CTO Qucentis
+- **Hyperledger: A first look:** Nikhil Mohan, COO Lightrains Tech
