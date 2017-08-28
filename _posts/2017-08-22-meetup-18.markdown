@@ -21,3 +21,11 @@ The session is planned to discuss the following:
 
 - **Blockchain: The Immutable Ledger s:**  Rakesh B.S, CTO Qucentis
 - **Hyperledger: A first look:** Nikhil Mohan, COO Lightrains Tech
+
+## Updates
+
+[Slides - Blockchain Immutability and Hyperledger](/assets/slides/BIGOrg-Talks-18-Meetup.pdf)
+
+![Blockchain Immutability and Hyperledger 3](/assets/photos/meetup-18-0.jpg)
+![Blockchain Immutability and Hyperledger 2](/assets/photos/meetup-18-2.jpg)
+![Blockchain Immutability and Hyperledger 1](/assets/photos/meetup-18-1.jpg)
