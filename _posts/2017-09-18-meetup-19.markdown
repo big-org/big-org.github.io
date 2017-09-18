@@ -15,4 +15,4 @@ longitude: "76.8728404"
 This month's meet up is going to be a group discussion on Bitcoin & its recent market turbulence, Chinese ICO ban, Curious case of JP Morgan statement & their actions after that
 
 **Speakers**   
-This is going to be an open discussion lead by **Jikku Jose** and **Nikhil Krishna**
+This is going to be an open discussion lead by **Jikku Jose**
