@@ -1,0 +1,18 @@
+---
+title: "Bitcoin & its recent market turbulence - Meetup #19"
+start: 2017-09-21 17:00
+end: 2017-09-21 18:00
+where: "FAYA INNOVATIONS L-13,-1 Floor,Thejaswini Building,Technopark Campus,  Trivandrum, Kerala"
+description: "Blockchain Immutability and Hyperledger"
+when: Thursday, September 21, 2017 from 5:00 PM to 6:00 PM (IST)
+meetupno: 19
+type: meetup
+latitude: "8.548489"
+longitude: "76.8728404"
+---
+
+**Agenda**
+This month's meet up is going to be a group discussion on Bitcoin & its recent market turbulence, Chinese ICO ban, Curious case of JP Morgan statement & their actions after that
+
+**Speakers**
+This is going to be an open discussion lead by **Jikku Jose** and **Nikhil Krishna**
