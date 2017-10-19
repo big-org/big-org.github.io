@@ -1,0 +1,21 @@
+---
+title: "Bitcoin & its recent market turbulence - Meetup #19"
+start: 2017-10-19 17:00
+end: 2017-10-19 18:00
+where: "Kerala Startup Mission - Thejaswini. Technopark. Thiruvananthapuram."
+description: "Scaling a Blockchain"
+when: Thursday, October 19, 2017 from 5:00 PM to 6:00 PM (IST)
+meetupno: 20
+type: meetup
+latitude: "8.5566111"
+longitude: "76.8819165"
+---
+
+**Agenda**   
+This time we are discussing the technology and economics behind the scaling debate happened in the last few months in the Blockchain community. We will also discuss about
+
+- Ethereum scaling plans: Polkadot
+- Bitcoin scaling: Segwit2X 
+
+**Speakers**  
+This is going to be an open discussion lead by **Nikhil Krishna Nair**
