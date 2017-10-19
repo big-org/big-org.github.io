@@ -15,7 +15,7 @@ longitude: "76.8819165"
 This time we are discussing the technology and economics behind the scaling debate happened in the last few months in the Blockchain community. We will also discuss about
 
 - Ethereum scaling plans: Polkadot
-- Bitcoin scaling: Segwit2X 
+- Bitcoin scaling: Segwit2X
 
 **Speakers**  
-This is going to be an open discussion lead by **Nikhil Krishna Nair**
+This is going to be an open discussion lead by [Nikhil Krishna Nair](https://www.linkedin.com/in/nikhilkrishna)
