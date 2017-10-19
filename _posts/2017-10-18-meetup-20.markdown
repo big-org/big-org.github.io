@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin & its recent market turbulence - Meetup #19"
+title: "Scaling a Blockchain - Meetup #20"
 start: 2017-10-19 17:00
 end: 2017-10-19 18:00
 where: "Kerala Startup Mission - Thejaswini. Technopark. Thiruvananthapuram."
