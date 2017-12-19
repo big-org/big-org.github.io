@@ -1,0 +1,26 @@
+---
+title: "Hashgraph - What is it? / How it works / Hashgraph vs Blockchain - Meetup #22"
+start: 2017-12-21 17:00
+end: 2017-12-21 18:00
+where: "Kerala Startup Mission - Thejaswini. Technopark. Thiruvananthapuram."
+description: "Hashgraph is a data structure and consensus algorithm that claims to be faster, fairer, and more secure than blockchain."
+when: Thursday, December 21, 2017 from 5:00 PM to 6:00 PM (IST)
+meetupno: 22
+type: meetup
+latitude: "8.5566111"
+longitude: "76.8819165"
+---
+
+**Description**  
+Hashgraph is a data structure and consensus algorithm that claims to be faster, fairer, and more secure than blockchain. Hashgraph is not currently available on a public network / ledger so there is no cryptocurrency at this time. It is currently available only for private networks for enterprise/commercial applications. In this episode we take a look at how hashgraph works and how the technology compares to the blockchain based bitcoin system.
+
+Topics:
+
+* What is Hashgraph? Basic concepts
+* How hashgraph transactions work
+* Sybil and DDoS attacks / How hashgraph handles attacks
+* Advantages of hashgraph
+* Overall opinion about hashgraph
+
+**Speakers**  
+This is going to be an open discussion lead by [Nikhil Krishna Nair](https://www.linkedin.com/in/nikhilkrishna)
