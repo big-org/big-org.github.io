@@ -1,0 +1,24 @@
+---
+title: "Lightning networks - Meetup #24"
+start: 2018-02-15 17:00
+end: 2018-02-15 18:00
+where: "Kerala Startup Mission - Thejaswini. Technopark. Thiruvananthapuram."
+description: "In this meetup we will be talking about Secure Payment Channels using Lightning Network."
+when: Thursday, February 15, 2018 from 5:00 PM to 6:30 PM (IST)
+meetupno: 24
+type: meetup
+latitude: "8.5566111"
+longitude: "76.8819165"
+---
+
+**Description**  
+In this meetup we will be talking about Secure Payment Channels using Lightning Network. [Lightning Networks](http://lightning.network/) are an example of multi-party Smart Contract
+(programmable money) using bitcoin's built-in scripting. We will explore how Lightning Networks can be used to create a network of payment channels that can enable transactions between parties that don't have a direct payment channel setup between them.
+
+This will be an informal and interactive session with hopefully a lot of questions and shared exploration of this interesting technology :-)
+
+Please comment if anyone wants to talk about other similar Payment Channels on Blockchain like Raiden Networks.
+
+**Speaker**
+
+This is going to be an open discussion lead by [Nikhil Krishna Nair](https://www.linkedin.com/in/nikhilkrishna)
