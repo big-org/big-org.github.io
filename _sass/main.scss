@@ -395,6 +395,10 @@ h3 {
 	font-variant: normal;
 	font-weight: bold;
 	line-height: 15px;
+  &.when {
+    display: none;
+    visibility: hidden;
+  }
 }
 p {
 	font-size: 14px;
