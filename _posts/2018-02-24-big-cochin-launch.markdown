@@ -82,7 +82,7 @@ Venue             | [Seminar Hall 2, Mar Athanasius College, Kothamangalam][mace
 Date              | February 24 2018
 Time              | 10 am to 3 pm
 Host              | IEEE, Mar Athanasius College
-Point of Contact  | [Eldho MA][eldho] `+91 8089 504 864` & [Gokul VS][gokul] `+91 8547 634 667`
+Point of Contact  | [Eldho MA][eldho] `+91 8089 504 864` & Gokul VS `+91 8547 634 667`
 Fee               | Free
 Registration Link | [Google Form][gf]
 
@@ -96,6 +96,6 @@ Registration Link | [Google Form][gf]
 [bf]: https://www.facebook.com/BlockchainInterestGroup/
 [copay]: https://copay.io/
 [telegram]: https://telegram.org/
-[eldho]: https://t.me/
+[eldho]: https://t.me/ejm2107
 [gokul]: https://t.me/
 [jikku_telegram]: https://t.me/jikkujose
