@@ -7,7 +7,7 @@ Hello,
 
 {{site.description}}
 
-**Your'e welcome to join us...**
+**You're welcome to join us...**
 
 Thanks!
 
